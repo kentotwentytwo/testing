@@ -21,16 +21,3 @@ https://cdn.hklive.tv/xxxx/81/index.m3u8
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="" status="online",有線新聞台 i-Cable 24-hour News Channel (720p)
 https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",Tennis TV
-https://dai.google.com/linear/hls/pa/event/Dlqr46ybTSGWGTfRWcxS0g/stream/8e663c73-7283-4312-8516-3976ddac225a:MRN2/variant/
-da9a580086cd269ebd42bf2214db1d6a/bandwidth/2809351.m3u8
-#EXTINF:-1 tvg-id="" status="online",Tennis TV
-https://dai.google.com/linear/hls/pa/event/Dlqr46ybTSGWGTfRWcxS0g/stream/6fe1d927-d283-49f5-877e-b940e73b502a:DLS/variant/da9a580086cd269ebd42bf2214db1d6a/bandwidth/2809351.m3u8
-#EXTINF:-1 tvg-id="" status="online",Tennis TV+1
-https://playoutengine.licenses4.me/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 tvg-id="" status="online",Tennis TV+2
-https://playoutengine.licenses4.me/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
-#EXTINF:-1 tvg-id="" status="online",Tennis TV+3
-https://playoutengine.licenses4.me/playout/d63dc8e6-3693-4c8b-8912-e08608f7513f/g.m3u8
-#EXTINF:-1 tvg-id="" status="online",Tennis TV+4
-https://playoutengine.licenses4.me/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/d.m3u8
